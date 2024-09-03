@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Balineni Deviprasad
-- 👀 I’m interested in java and python
-- 🌱 I’m currently learning java & python 
--  💭Ask me about java and python
-- 💼 Reach me at deviprasadbalinani@gmail.com
+- 👋 Hi, I’m @Balineni Devi Prasad
+- 👀 I’m interested in JAVA, Web Technologies, SDLC and Software Testing.
+- 🌱 I’m currently learning Data Analytics.
+-  💭Ask me about JAVA
+- 💼 Reach me at deviprasad9528@gmail.com
 
 <!---
 BalineniDeviprasad/BalineniDeviprasad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
